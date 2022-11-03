@@ -3,7 +3,10 @@
 </p>
 
 
-## I'm a beginner python and Web3.0 developer  
+<h1 align="center">Contact me</h1>
 
-## Contact me 
+<div style="text-align: center;">
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vakal33)
+
+</div>
