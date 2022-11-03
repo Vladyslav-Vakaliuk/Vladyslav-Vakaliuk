@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=229ED9(https://t.me/vakal33)">
+    <img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=229ED9)](https://t.me/vakal33" />
 </p>
 
 
