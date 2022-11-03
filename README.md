@@ -3,7 +3,8 @@
 </p>
 
 
-<h1 align="center"><b>Contact me</b></h1>
+<h1 align="center">Contact me</h1>
 
+<h1 align="center">[![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=229ED9)](https://t.me/vakal33)</h1>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=229ED9)](https://t.me/vakal33)
+[![Telegram](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=229ED9)](https://t.me/vakal33)
