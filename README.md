@@ -6,4 +6,4 @@
 ## I'm a beginner python and Web3.0 developer  
 
 ## Contact me 
-![Telegram](https://img.shields.io/badge/-Telegram-2AABEE?style=social&logo=telegram)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vakal33)
