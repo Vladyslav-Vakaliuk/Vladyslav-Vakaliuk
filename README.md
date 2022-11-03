@@ -3,7 +3,7 @@
 </p>
 
 
+## I'm a beginner python and Web3.0 developer  
 
-
-
-<!-- ![header](https://github.com/Vladyslav-Vakaliuk/Vladyslav-Vakaliuk/blob/main/assets/base_AdobeExpress%20(1).gif) -->
+## Contact me 
+![Telegram](https://img.shields.io/badge/-Telegram-2AABEE?style=social&logo=telegram)
