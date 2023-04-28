@@ -1,8 +1,3 @@
-<p align="center">
-    <img src="https://github.com/Vladyslav-Vakaliuk/Vladyslav-Vakaliuk/blob/main/assets/base_AdobeExpress%20(1).gif">
-</p>
-
-
 <h2 align="center">Contact me</h2>
 
 <p align="center">
